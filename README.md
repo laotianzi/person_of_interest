@@ -15,5 +15,5 @@ The system gives pedestrian moving speed from OpenCV API and counts from TensorF
 
 ## **Approach**
 
-Please visit my [blog post](https://goo.gl/k71BHU) for more detailed information regarding this project's workflow and results.
+Please visit my [blog post](https://laotianzi.github.io/blog/2017/09/12/Challenge-5-Kojak/) and [Google slides](https://goo.gl/k71BHU) for more detailed information regarding this project's workflow and results.
 
